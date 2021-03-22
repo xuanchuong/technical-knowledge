@@ -18,3 +18,8 @@ We can use [Portainer](https://documentation.portainer.io) to access docker via 
 
 ##### DB manager:
 * [dbeaver](https://dbeaver.io/)
+
+## Video
+##### video editor:
+* [handbrake](https://handbrake.fr/)
+> HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.

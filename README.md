@@ -19,9 +19,14 @@ We can use [Portainer](https://documentation.portainer.io) to access docker via 
 ##### DB manager:
 * [dbeaver](https://dbeaver.io/)
 
-## Video
+## Media
+#### Video
 ##### video editor:
 * [handbrake](https://handbrake.fr/)
 > HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 * [icecreamapps](https://icecreamapps.com/Screen-Recorder/)
 > Icecream Screen Recorder is an easy-to-use free screen recording software that enables you to record any area of your screen or save it as a screenshot.
+#### Image
+##### screenshot
+* [Lightshot](https://app.prntscr.com/en/index.html)
+> The fastest way to take a customizable screenshot

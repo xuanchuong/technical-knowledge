@@ -30,3 +30,7 @@ We can use [Portainer](https://documentation.portainer.io) to access docker via 
 ##### screenshot
 * [Lightshot](https://app.prntscr.com/en/index.html)
 > The fastest way to take a customizable screenshot
+> 
+## File Manager
+*  [multcloud](https://www.multcloud.com/)
+> Focus on Transferring across Clouds
